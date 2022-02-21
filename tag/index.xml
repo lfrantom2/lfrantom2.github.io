@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Bluebulldog Hugo Sites</title>
+    <link>http://bluebulldog.net/tag/</link>
+    <description>Recent content in Tags on Bluebulldog Hugo Sites</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Aug 2021 16:22:12 -0500</lastBuildDate><atom:link href="http://bluebulldog.net/tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tag 1</title>
+      <link>http://bluebulldog.net/tag/tag/</link>
+      <pubDate>Sat, 21 Aug 2021 16:22:12 -0500</pubDate>
+      
+      <guid>http://bluebulldog.net/tag/tag/</guid>
+      <description>This is stuff for tags </description>
+    </item>
+    
+  </channel>
+</rss>
