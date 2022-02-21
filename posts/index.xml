@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bluebulldog Hugo Sites</title>
-    <link>http://bluebulldog.net/posts/</link>
+    <link>https://lfrantom2.github.io/posts/</link>
     <description>Recent content in Posts on Bluebulldog Hugo Sites</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://bluebulldog.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lfrantom2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Third Post using Visual Studio Code</title>
-      <link>http://bluebulldog.net/posts/my-third-post/</link>
+      <link>https://lfrantom2.github.io/posts/my-third-post/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://bluebulldog.net/posts/my-third-post/</guid>
+      <guid>https://lfrantom2.github.io/posts/my-third-post/</guid>
       <description>This is the second This is the third post
 does this behave like mark up? Thinking about making a Beatle&amp;rsquo;s site
 I want to add all of the PDFs Once I do that I want to have them organized by title and album
@@ -22,19 +22,19 @@ Here is how to make a table
     
     <item>
       <title>My First Post</title>
-      <link>http://bluebulldog.net/posts/my-first-post/</link>
+      <link>https://lfrantom2.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 25 Aug 2021 16:22:12 -0500</pubDate>
       
-      <guid>http://bluebulldog.net/posts/my-first-post/</guid>
+      <guid>https://lfrantom2.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Second Post</title>
-      <link>http://bluebulldog.net/posts/my-second-post/</link>
+      <link>https://lfrantom2.github.io/posts/my-second-post/</link>
       <pubDate>Sat, 21 Aug 2021 16:22:12 -0500</pubDate>
       
-      <guid>http://bluebulldog.net/posts/my-second-post/</guid>
+      <guid>https://lfrantom2.github.io/posts/my-second-post/</guid>
       <description>This is the second This is the second post
 does this behave like mark up? yes, it looks like it
 does behave that way</description>
